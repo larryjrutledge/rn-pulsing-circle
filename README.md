@@ -92,7 +92,7 @@ this.refs.myCircle.toggleAnimation() // if the animation is running, will stop t
 
 ## Configuration
 
-You can configure the passing by following props:
+You can configure the component by passing the following props:
 
 - **delay** - number of milliseconds to pause between animation cycles (default: 3000)
 - **backgroundColor** - color of the background for the component. If unspecified, no background will be rendered
